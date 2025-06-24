@@ -1,0 +1,52 @@
+2025-06-19 15:13:08 - INFO - This is an info message
+2025-06-19 15:13:08 - WARNING - This is a warning message
+2025-06-19 15:13:08 - ERROR - This is an error message
+2025-06-19 15:13:08 - CRITICAL - This is a critical message
+2025-06-19 15:18:57 - INFO - This is an info message
+2025-06-19 15:18:57 - WARNING - This is a warning message
+2025-06-19 15:18:57 - ERROR - This is an error message
+2025-06-19 15:18:57 - CRITICAL - This is a critical message
+2025-06-19 15:21:53 - INFO - Dataset has 1115 Records/Rows and 10 attributes/columns.
+2025-06-19 15:33:33 - INFO - This is an info message
+2025-06-19 15:33:33 - WARNING - This is a warning message
+2025-06-19 15:33:33 - ERROR - This is an error message
+2025-06-19 15:33:33 - CRITICAL - This is a critical message
+2025-06-19 15:33:34 - INFO - Dataset has 1115 Records/Rows and 10 attributes/columns.
+2025-06-19 15:33:35 - INFO - Datasets merged successfully.
+2025-06-19 15:39:36 - INFO - Analyzing distribution of promotions in training and test sets...
+2025-06-19 15:39:38 - INFO - Plotted distribution of promotions in training and test sets.
+2025-06-19 15:39:38 - INFO - Graph formed successfully.
+2025-06-19 15:39:38 - INFO - Analyzing sales behavior around holidays...
+2025-06-19 15:39:39 - INFO - Plotted sales behavior around holidays.
+2025-06-19 15:39:39 - INFO - Graph formed successfully.
+2025-06-19 15:39:50 - INFO - Analyzing seasonal purchase behaviors...
+2025-06-19 15:39:52 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-19 15:39:53 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-19 15:39:59 - INFO - Plotted seasonal purchase behaviors using violin plot.
+2025-06-19 15:39:59 - INFO - Graph formed successfully.
+2025-06-19 15:39:59 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-19 15:39:59 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-19 15:39:59 - INFO - Analyzing correlation between sales and number of customers...
+2025-06-19 15:40:00 - INFO - Correlation between Sales and Number of Customers: 0.92
+2025-06-19 15:40:05 - INFO - Plotted correlation between sales and number of customers.
+2025-06-19 15:40:05 - INFO - Graph formed successfully.
+2025-06-19 15:40:05 - INFO - Analyzing the effect of promotions on sales...
+2025-06-19 15:40:07 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-19 15:40:08 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-19 15:40:10 - INFO - Plotted the effect of promotions on sales.
+2025-06-19 15:40:10 - INFO - Graph formed successfully.
+2025-06-19 15:40:12 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-19 15:40:13 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-19 15:40:20 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-19 15:40:21 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-06-19 15:40:27 - INFO - Graph formed successfully.
+2025-06-19 15:40:27 - INFO - Analyzing customer behavior during store open and closing times...
+2025-06-19 15:40:29 - INFO - Plotted customer behavior during store open and closing times.
+2025-06-19 15:40:29 - INFO - Graph formed successfully.
+2025-06-19 15:40:50 - INFO - Graph formed successfully.
+2025-06-19 15:40:51 - INFO - Analyzing the effect of assortment type on sales...
+2025-06-19 15:40:55 - INFO - Plotted effect of assortment type on sales.
+2025-06-19 15:40:55 - INFO - Graph formed successfully.
+2025-06-19 15:40:55 - INFO - Analyzing the impact of competitor distance on sales...
+2025-06-19 15:41:01 - INFO - Plotted impact of competitor distance on sales.
+2025-06-19 15:41:01 - INFO - Graph formed successfully.

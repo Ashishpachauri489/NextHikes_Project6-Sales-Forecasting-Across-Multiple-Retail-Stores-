@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1750256893676
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1750256893676
+metrics: null
+model_id: m-83fcf135edea47dc989f7b370cdca151
+name: sales forecasting LSTM Model
+params: null
+run_id: a88449d328134cc4a37dda43b002fca5
+run_link: null
+source: models:/m-83fcf135edea47dc989f7b370cdca151
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Dell/AI%20DIGICROME%20COURSE/mlruns/102679483430756654/models/m-83fcf135edea47dc989f7b370cdca151/artifacts
+user_id: null
+version: 1
