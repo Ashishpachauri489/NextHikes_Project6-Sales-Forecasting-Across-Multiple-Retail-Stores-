@@ -513,7 +513,7 @@ st.markdown("---")
 st.markdown(
     """
     <div style='text-align: center; color: #666;'>
-        <p>🏪 Rossmann Sales Forecasting Dashboard | Built with Streamlit</p>
+        <p>🏪 Sales Forecasting Dashboard | Built with Streamlit</p>
         <p>📊 Powered by Machine Learning | NextHikes IT Solutions</p>
     </div>
     """,
